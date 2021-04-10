@@ -1,4 +1,4 @@
 import numpy as np
 import pandas as pd
 
-df = pd.
+# how do I start data anaiysis with no base in me?
